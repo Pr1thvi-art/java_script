@@ -17,4 +17,4 @@ let Name = "Prithvi"
 let Age = "19"
 let IsLoggedIn = "true"
 
-console.log (typeof "Null")
+console.log(IsLoggedIn)
